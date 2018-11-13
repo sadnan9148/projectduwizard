@@ -12,7 +12,7 @@
 # How to open project :
    - Download and install visual studio 2013.
    - Download the project.
-   - open final project vc++ file with visual studio.
+   - open DU Wizard Final project vc++ file with visual studio.
    - Click on Local windows debugger to run the game
 
 # Platforms : Windows Operating Systems.
