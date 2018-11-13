@@ -1,0 +1,11 @@
+*****INSTRUCTIONS****
+
+1. To enter menu page, press 'ENTER'.
+2. Select menu from the menu page.
+3. In 'Explore DU' there is a map of University of Dhaka.
+4. Click on that place to know details.
+5. Use back button to back.
+6. Press Exit from the menu page to end the program.
+
+ 
+       .........Thanks you.........  
